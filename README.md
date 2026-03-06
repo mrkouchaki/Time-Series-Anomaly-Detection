@@ -1,4 +1,4 @@
-# First Model : RNN Autoencoder for Time-Series Anomaly Detection in a Simulated Communication Network
+# First Model : Enhanced Self-Attention based RNN-Autoencoder for Time-Series Anomaly Detection in a Simulated Communication Network
 
 ## Overview
 
